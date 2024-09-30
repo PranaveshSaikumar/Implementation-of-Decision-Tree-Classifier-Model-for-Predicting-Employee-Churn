@@ -47,7 +47,7 @@ accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ```
-
+<br><br><br><br>
 ## Output:
 ![Screenshot 2024-09-20 103740](https://github.com/user-attachments/assets/9d88a883-db85-4036-b3f8-3f27ce8dab33)
 
